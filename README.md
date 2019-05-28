@@ -1,1 +1,1 @@
-# Link is https://zixindh.github.io/ruifa/
+# zixindh.github.io
