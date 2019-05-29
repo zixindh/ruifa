@@ -34,3 +34,10 @@ img{
   height:100;
   padding: 20px 20px 20px 10px;
 }
+.row{
+  display: flex;
+}
+.column{
+  flex:60%;
+  padding:2px;
+}
